@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* add color to button */
+button {
+  background-color: #61dafb;
+  color: black;
+}
+
+/* add color to button when hovered */
+button:hover {
+  background-color: #1c31a3;
+  color: white;
+}
+
+/* add background color */
+body {
+  background-color: #df75df;
+  color: rgb(231, 121, 121);
+}
+
+/* change text color */
+h1 {
+  color: #1c31a3;
+}
+
+
